@@ -29,7 +29,7 @@
 🚀 Publicado no Google Play... <a href="https://play.google.com/store/apps/details?id=com.opera3000.snake"> SnakeGame </a> 🚧
 </h4>
 
-<h2 align="center" id="tecnologias"> 🛠 Tecnologias <h2>
+<h2 align="center" id="tecnologias"> 🛠 Tecnologias </h2>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -38,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-<h2 align="center" id="teste"> 🎲 Testar a aplicação em sua maquina<h2>
+<h2 align="center" id="teste"> 🎲 Testar a aplicação em sua maquina</h2>
 
 <h3>Pré-requisitos</h3>
 
