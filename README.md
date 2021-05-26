@@ -37,6 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Game-engine](https://www.npmjs.com/package/react-native-game-engine)
 
 <h2 align="center" id="teste"> 🎲 Testar a aplicação em sua maquina</h2>
 
