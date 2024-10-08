@@ -6,22 +6,5 @@
       "@/*": ["./*"]
     }
   },
-  "include": [
-    "**/*.ts",
-    "**/*.tsx",
-    ".expo/types/**/*.ts",
-    "expo-env.d.ts",
-    "services/gameLoop.js",
-    "components/GameOver/index.js",
-    "components/GameScreen/index.js",
-    "components/Head.js",
-    "services/gameLoop.js",
-    "components/Tail.js",
-    "entities/index.js",
-    "components/Tail.js",
-    "components/Food.js",
-    "components/Enemy.js",
-    "components/Snake/Head.js",
-    "entities/setupEntities.js"
-  ]
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"]
 }
